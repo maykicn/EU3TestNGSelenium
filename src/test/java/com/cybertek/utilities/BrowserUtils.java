@@ -265,7 +265,7 @@ public class BrowserUtils {
 
 
     /**
-     * Scrolls down to an element using JavaScript
+     * Scrolls down to an element using JavaScript--
      *
      * @param element
      */
