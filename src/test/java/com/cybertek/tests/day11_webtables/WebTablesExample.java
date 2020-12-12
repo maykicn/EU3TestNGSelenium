@@ -48,6 +48,7 @@ public class WebTablesExample {
 
         for (WebElement header : headers) {
             System.out.println(header.getText());
+
         }
 
     }
